@@ -9,5 +9,5 @@ A world largest platform for streaming movies and TV shows would like to sponsor
 4. Create the Movie Database4
 
 ## Resources
-- Data sources: The ETL process  performed using [Wikipedia_movies_json](https://github.com/aobasuyi/Movies-ETL/blob/main/Resources/wikipedia-movies.json), [movies](https://github.com/aobasuyi/Movies-ETL/blob/main/Resources/movies_metadata.csv) and ratings dataset from Kaggle.com
+- Data sources: The ETL process  performed using [Wikipedia_movies_json](https://github.com/aobasuyi/Movies-ETL/blob/main/Resources/wikipedia-movies.json), [movies](https://github.com/aobasuyi/Movies-ETL/blob/main/Resources/movies_metadata.csv) and movies ratings datasets from Kaggle.com
 - Software: Software: Python 3.7.6 :: Anaconda, Inc., conda 4.10.1, Jupyter Notebook, Visual Studio Code, 1.56
