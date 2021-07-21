@@ -10,4 +10,4 @@ The world largest platform for streaming movies and TV shows would like to spons
 
 ## Resources
 - Data sources: The ETL process was performed using [Wikipedia JSON file](https://github.com/aobasuyi/Movies-ETL/blob/main/Resources/wikipedia-movies.json), MovieLens [movies_metadata](https://github.com/aobasuyi/Movies-ETL/blob/main/Resources/movies_metadata.csv) and ratings datasets from [Kaggle.com](https://www.kaggle.com/account/login?titleType=dataset-downloads&showDatasetDownloadSkip=False&messageId=datasetsWelcome&returnUrl=%2Frounakbanik%2Fthe-movies-dataset%3Fresource%3Ddownload) 
-- Software: Software: Python 3.7.6 :: Anaconda, Inc., conda 4.10.1, Jupyter Notebook, Visual Studio Code, 1.56
+- Software: Software: Python 3.7.6 :: Anaconda, Inc., conda 4.10.1, Jupyter Notebook, Visual Studio Code, 1.56, PostgreSQL.
